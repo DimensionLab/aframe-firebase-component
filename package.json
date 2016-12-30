@@ -1,6 +1,6 @@
 {
   "name": "aframe-firebase-component",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Firebase component for multiuser A-Frame.",
   "main": "index.js",
   "browser": "dist/aframe-firebase-component.min.js",
